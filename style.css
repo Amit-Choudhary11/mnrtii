@@ -1,0 +1,66 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: x-large;
+    padding-top: 10px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    height: 120px;
+    position: center;
+    float: none;
+    padding-top: 15px;
+    font-family: cursive;
+    font-size: large;
+  
+  }
+  .heading_div2
+  {
+    font-size: 25px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  body{
+   background-position: center;
+    background-size: cover;
+  }
+
+  .btn-success{
+    margin-left: 70px;
+    margin-right: 70px;
+    height: fit-content;
+  }
+ 
+  #object, #accuracy{
+    white-space:pre-line ;
+  }
+
+  .copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    line-height:25px;
+    color: white;
+    height: 50px;
+    font-size: x-large;
+    padding-top: 10px;
+  }
+
+  canvas{
+    border-width: 5px;
+    border-color: aqua;
+    border-radius: 25px;
+    border-style: solid;
+  }
